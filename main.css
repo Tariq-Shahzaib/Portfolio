@@ -1,0 +1,18 @@
+h2,a,p {
+    font-style: normal;
+    background-color: #607d8b;
+    color: #ffffff;
+  }
+  
+
+p {
+    font-style: normal;
+  }
+  
+  p {
+    font-style: italic;
+  }
+  
+  p{
+    font-style: oblique;
+  }
